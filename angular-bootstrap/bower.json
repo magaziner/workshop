@@ -1,0 +1,15 @@
+{
+  "name": "angular-bootstrap",
+  "version": "0.0.0",
+  "authors": [
+    "mmuller <mikolaj.muller23@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
